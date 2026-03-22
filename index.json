@@ -1,5 +1,11 @@
 {
   "org": "willmcgugan",
   "repo": "rich",
-  "versions": []
+  "versions": [
+    {
+      "commit": "d4a60fef7ec607be08908ebde7be522e28a1e922",
+      "tag": "",
+      "parsed_at": ""
+    }
+  ]
 }
