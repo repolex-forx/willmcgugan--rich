@@ -537,13 +537,6 @@
       "dep": "dep/143fe06c477006b7d51c6a144047d77cbafde0b4.nq.gz",
       "dependencies": [
         {
-          "packageName": "rich",
-          "packageVersion": "9.9.0",
-          "githubOrg": "willmcgugan",
-          "githubRepo": "rich",
-          "githubCommit": "3473658d13a4e88e1e58a7be116ae6975ca13cf6"
-        },
-        {
           "packageName": "pytest",
           "packageVersion": "9.0.2",
           "githubOrg": "pytest-dev",
@@ -551,11 +544,11 @@
           "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
         },
         {
-          "packageName": "IPython",
+          "packageName": "rich",
           "packageVersion": "9.9.0",
-          "githubOrg": "ipython",
-          "githubRepo": "ipython",
-          "githubCommit": "0c28fe5821b85b091bf5693ff5ba3eda7bcc49ec"
+          "githubOrg": "willmcgugan",
+          "githubRepo": "rich",
+          "githubCommit": "3473658d13a4e88e1e58a7be116ae6975ca13cf6"
         },
         {
           "packageName": "typing-extensions",
@@ -565,11 +558,11 @@
           "githubCommit": "f82d6367f3ff8f16b6291de06394ec6b9318bfc3"
         },
         {
-          "packageName": "emoji",
-          "packageVersion": "2.9.0",
-          "githubOrg": "carpedm20",
-          "githubRepo": "emoji",
-          "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+          "packageName": "commonmark",
+          "packageVersion": "0.9.1",
+          "githubOrg": "rtfd",
+          "githubRepo": "commonmark.py",
+          "githubCommit": "7e02d134ba2371eef08ce3c009bc2c83b675954b"
         },
         {
           "packageName": "colorama",
@@ -579,11 +572,11 @@
           "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
         },
         {
-          "packageName": "commonmark",
-          "packageVersion": "0.9.1",
-          "githubOrg": "rtfd",
-          "githubRepo": "commonmark.py",
-          "githubCommit": "7e02d134ba2371eef08ce3c009bc2c83b675954b"
+          "packageName": "IPython",
+          "packageVersion": "9.9.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython",
+          "githubCommit": "0c28fe5821b85b091bf5693ff5ba3eda7bcc49ec"
         },
         {
           "packageName": "wcwidth",
@@ -598,6 +591,13 @@
           "githubOrg": "readthedocs",
           "githubRepo": "sphinx_rtd_theme",
           "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
+        },
+        {
+          "packageName": "emoji",
+          "packageVersion": "2.9.0",
+          "githubOrg": "carpedm20",
+          "githubRepo": "emoji",
+          "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
         }
       ]
     },
