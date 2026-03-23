@@ -3,15 +3,33 @@
   "files": {
     "repolex": {
       "path": "aggregate/repolex/0b3e1ec3c7c6673a7b6f09a5963420f9890896cd.nq.gz",
+<<<<<<< Updated upstream
       "size_bytes": 2284624
     },
     "dep": {
       "path": "dep/0b3e1ec3c7c6673a7b6f09a5963420f9890896cd.nq.gz",
       "size_bytes": 1264
+=======
+      "size_bytes": 2280898
+    },
+    "dep": {
+      "path": "dep/0b3e1ec3c7c6673a7b6f09a5963420f9890896cd.nq.gz",
+      "size_bytes": 1259
+>>>>>>> Stashed changes
     }
   },
   "dependencies": [
     {
+<<<<<<< Updated upstream
+=======
+      "packageName": "emoji",
+      "packageVersion": "2.9.0",
+      "githubOrg": "carpedm20",
+      "githubRepo": "emoji",
+      "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+    },
+    {
+>>>>>>> Stashed changes
       "packageName": "rich",
       "packageVersion": "9.9.0",
       "githubOrg": "willmcgugan",
@@ -19,11 +37,26 @@
       "githubCommit": "3473658d13a4e88e1e58a7be116ae6975ca13cf6"
     },
     {
+<<<<<<< Updated upstream
       "packageName": "emoji",
       "packageVersion": "2.9.0",
       "githubOrg": "carpedm20",
       "githubRepo": "emoji",
       "githubCommit": "184648397b8be8bfb5be62424f302a8cd4f88f39"
+=======
+      "packageName": "table",
+      "packageVersion": "0.0.4",
+      "githubOrg": "eseraygun",
+      "githubRepo": "python-table",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+>>>>>>> Stashed changes
     },
     {
       "packageName": "typing-extensions",
@@ -40,6 +73,7 @@
       "githubCommit": "HEAD"
     },
     {
+<<<<<<< Updated upstream
       "packageName": "colorama",
       "packageVersion": "0.4.6rc1",
       "githubOrg": "tartley",
@@ -59,6 +93,13 @@
       "githubOrg": "jquast",
       "githubRepo": "wcwidth",
       "githubCommit": "e19d2a2d852d623fce9d9d4d5f4c373d7233373b"
+=======
+      "packageName": "commonmark",
+      "packageVersion": "0.9.1",
+      "githubOrg": "rtfd",
+      "githubRepo": "commonmark.py",
+      "githubCommit": "7e02d134ba2371eef08ce3c009bc2c83b675954b"
+>>>>>>> Stashed changes
     },
     {
       "packageName": "sphinx-rtd-theme",
@@ -68,6 +109,7 @@
       "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
     },
     {
+<<<<<<< Updated upstream
       "packageName": "commonmark",
       "packageVersion": "0.9.1",
       "githubOrg": "rtfd",
@@ -80,6 +122,20 @@
       "githubOrg": "eseraygun",
       "githubRepo": "python-table",
       "githubCommit": "HEAD"
+=======
+      "packageName": "wcwidth",
+      "packageVersion": "0.6.0",
+      "githubOrg": "jquast",
+      "githubRepo": "wcwidth",
+      "githubCommit": "e19d2a2d852d623fce9d9d4d5f4c373d7233373b"
+    },
+    {
+      "packageName": "colorama",
+      "packageVersion": "0.4.6rc1",
+      "githubOrg": "tartley",
+      "githubRepo": "colorama",
+      "githubCommit": "832f14ce9a4d00c2dfb88e8cb02e2defadb76ba9"
+>>>>>>> Stashed changes
     }
   ]
 }
