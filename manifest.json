@@ -5918,8 +5918,8 @@
     },
     {
       "commit": "0b3e1ec3c7c6673a7b6f09a5963420f9890896cd",
-      "parsed_at": "2026-03-23T18:36:20.342214+00:00",
-      "tag": "v0.8.5",
+      "parsed_at": "2026-03-23T18:38:36.829245+00:00",
+      "tag": "v0.8.6",
       "filetree": "filetree/0b3e1ec3c7c6673a7b6f09a5963420f9890896cd.nq.gz",
       "blobs": [
         "blob/dc7d49a950052d6263ea6782d23b8fa0e5084555.nq.gz",
