@@ -1799,7 +1799,7 @@
     },
     {
       "commit": "1b437866469bd5a05e0a14141dc5c17acd30c858",
-      "parsed_at": "2026-03-21T10:23:55.034762+00:00",
+      "parsed_at": "2026-03-23T02:57:25.637431+00:00",
       "tag": "v0.6.0",
       "filetree": "filetree/1b437866469bd5a05e0a14141dc5c17acd30c858.nq.gz",
       "blobs": [
